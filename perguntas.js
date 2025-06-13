@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Cultura',
+    'Como é a cultura?',
+    'rica e diversa, é o resultado da mistura de costumes e tradições de diversos grupos étnicos que povoaram o estado.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Culinária',
+    'Como é a culinária?',
+    'A culinária paranaense, com influência das tradições indígenas, portuguesas e de imigrantes, é rica em sabores e técnicas de preparo. Pratos como o barreado, a carne de onça e o pão no bafo, entre outros, são exemplos da diversidade e do potencial gastronômico do estado. '
 )
 
 criaCartao(
