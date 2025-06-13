@@ -11,26 +11,26 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Turismo',
+    'Tem muitos pontos turisticos?',
+    'Sim, Cataratas do Iguaçu, a Usina Hidrelétrica de Itaipu, o Parque das Aves, o Jardim Botânico de Curitiba e a Ilha do Mel, entre outros.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Gírias',
+    'Existem muitas gírias locais?',
+    'Sim,  mais comuns incluem "piá" (menino, jovem), "guria" (menina, jovem), "baita" (grande, impressionante), "treta" (confusão, problema) e "capaz" (usado para surpresa ou negação)'
 )
 
 criaCartao(
-    'Programação',
-    'Qual a finalidade da variável em javascript?',
-    'Armazenar valores aleatórios a serem transcritos no html'
+    'Clima',
+    'E o clima como é?',
+    'O clima predominante no Paraná é subtropical úmido, com temperaturas amenas e chuvas bem distribuídas ao longo do ano. '
 )
 
 
 criaCartao(
-    'Programação',
-    'Qual a finalidade da variável em javascript?',
-    'Armazenar valores aleatórios a serem transcritos no html'
+    'Animais',
+    'Existem animais nativos?',
+    'Sim, por exemplo, Gralha-azul, a Raposa-dos-Pampas, a Jaguatirica, o Guaxinim, o Lobo-guará, o Papagaio-da-cara-roxa e o Guará. '
 )
