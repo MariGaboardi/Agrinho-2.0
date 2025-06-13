@@ -7,8 +7,7 @@ criaCartao(
 criaCartao(
     'Culinária',
     'Como é a culinária?',
-    'A culinária paranaense, com influência das tradições indígenas, portuguesas e de imigrantes, é rica em sabores e técnicas de preparo. Pratos como o barreado,
-     a carne de onça e o pão no bafo, entre outros, são exemplos da diversidade e do potencial gastronômico do estado. '
+    'A culinária paranaense, com influência das tradições indígenas, portuguesas e de imigrantes, é rica em sabores e técnicas de preparo. São exemplos da diversidade e do potencial gastronômico do estado. '
 )
 
 criaCartao(
